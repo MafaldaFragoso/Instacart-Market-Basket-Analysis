@@ -3,7 +3,8 @@
 # Project: Instacart-Market-Basket-Analysis
 *Ironhack Data Analytics Bootcamp*
 
-## Company studied: Instacart (grocery ordering and delivery app) 
+## Company studied: Instacart
+Instacart: grocery ordering and delivery app
 https://www.instacart.com/
 
 ## Data collection
