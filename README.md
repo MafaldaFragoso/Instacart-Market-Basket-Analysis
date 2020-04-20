@@ -7,10 +7,6 @@
 Instacart: grocery ordering and delivery app
 https://www.instacart.com/
 
-## Data collection
-- “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08/04/2020
-- Anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
-
 ## Research study
 **1. Exploratory analysis on customer shopping behavior on the Instacart platform:**
 - When do customers buy groceries online?
@@ -26,4 +22,8 @@ https://www.instacart.com/
 **3. Prediction model: Which sets of products are frequently bought together?**
 - Build the model using the mlxtend library:
 - Apriori function to extract frequent itemsets for association rule mining
-      - Association rule function to generate association rules from frequent itemsets
+- Association rule function to generate association rules from frequent itemsets
+
+## Data collection
+- “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08/04/2020
+- Anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
