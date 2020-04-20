@@ -13,17 +13,17 @@ https://www.instacart.com/
 
 ## Research study
 **1. Exploratory analysis on customer shopping behavior on the Instacart platform:**
-      - When do customers buy groceries online?
-      - Does the hour of the day and/or the day of the week affect the order volume?
-      - When do consumers order again? How many days it take to make another order?
-      - How many items do people buy?
-      - Which products are sold most often? And which ones are reorder the most?
-      - How often do people order the same items again?
+- When do customers buy groceries online?
+- Does the hour of the day and/or the day of the week affect the order volume?
+- When do consumers order again? How many days it take to make another order?
+- How many items do people buy?
+- Which products are sold most often? And which ones are reorder the most?
+- How often do people order the same items again?
       
 **2. Customer segmentation**
       Clustering analysing based on consumers orders
 
 **3. Prediction model: Which sets of products are frequently bought together?**
-      - Build the model using the mlxtend library:
-      - Apriori function to extract frequent itemsets for association rule mining
+- Build the model using the mlxtend library:
+- Apriori function to extract frequent itemsets for association rule mining
       - Association rule function to generate association rules from frequent itemsets
