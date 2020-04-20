@@ -11,7 +11,7 @@ https://www.instacart.com/
 - Anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
 
 ## Research study
-**1. Exploratory analysis on customer shopping behavior on the Instacart platform**
+**1. Exploratory analysis on customer shopping behavior on the Instacart platform:**
       When do customers buy groceries online?
       Does the hour of the day and/or the day of the week affect the order volume?
       When do consumers order again? How many days it take to make another order?
